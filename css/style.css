@@ -1,0 +1,41 @@
+body {
+	
+	font-family: 'Source Serif Pro', serif;
+	background-color: white;
+}
+#name{
+	text-align: center;
+	font-size: 50px;
+	
+
+}
+#navo{
+	background-color: white;
+	text-align: center;
+	font-size: 25px;
+
+
+}
+#bio{
+	font-size: 25px;
+	text-align: right;
+	float: right;
+}
+.photo{
+
+	border-radius: 50%;
+	max-width: 25;
+
+	
+	
+}
+.photo1{
+	max-width: 25%;
+	border-radius: 70%;
+	border-image-width: 10px;
+
+}
+.a:hover {
+
+background-color: yellow;
+}
