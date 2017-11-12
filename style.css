@@ -1,4 +1,6 @@
 body {
+	
+	font-family: 'Source Serif Pro', serif;
 	background-color: white;
 }
 #name{
@@ -20,6 +22,7 @@ body {
 	float: right;
 }
 .photo{
+
 	border-radius: 50%;
 	max-width: 25;
 
@@ -31,4 +34,8 @@ body {
 	border-radius: 70%;
 	border-image-width: 10px;
 
+}
+.a:hover {
+
+background-color: yellow;
 }
